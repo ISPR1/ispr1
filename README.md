@@ -1,10 +1,10 @@
 [![Masterhead](https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/07/code-validate-deploy-loop-1024x426.png)](https://cloudxlab.com/blog/mlops-machine-learning-operations-a-complete-hands-on-guide-with-case-study/)
 <h1 align="center">Hi 👋, I'm SIVA PRASAD REDDY</h1>
-<h3 align="center">A passionate DevOps Engineer </h3>
+<h3 align="center">A passionate Data Scientist </h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif?resize=800x600&vertical=center">
 
-- 🌱 I’m currently learning **DevSec & MLOps**
+- 🌱 I’m currently upskilling in **Data Science**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
@@ -12,13 +12,13 @@
 
 - 📝 My articles on [Medium](https://zmirack.medium.com/)
 
-- 💬 Ask me about **Containerization & Orchestration**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me [mail@me](mailto:xmirack@gmail.com/)
 
 - 📄 Know about my experiences [my-CV](https://t.ly/hTNOx)
 
-- ⚡ Fun fact **Be Unpredictable....**
+- ⚡ Pro fact **Be Independent & Unpredictable....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
