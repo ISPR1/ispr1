@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif?resize=800x600&vertical=center">
 
-- 🌱 I’m currently upskilling in **Data Science**
+- 🌱 I’m currently upskilling in **Ai & Data Science**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
@@ -12,9 +12,9 @@
 
 - 📝 My articles on [Medium](https://zmirack.medium.com/)
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Product development & management**
 
-- 📫 How to reach me [mail@me](mailto:xmirack@gmail.com/)
+- 📫 How to reach me [mail@me](mailto:ispr54@gmail.com/)
 
 - 📄 Know about my experiences [my-CV](https://t.ly/hTNOx)
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zmirack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zmirack" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zmirack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zmirack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ispr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zmirack" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ispr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ispr" height="30" width="40" /></a>
 <a href="https://medium.com/@zmirack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zmirack" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zmirack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zmirack" height="30" width="40" /></a>
